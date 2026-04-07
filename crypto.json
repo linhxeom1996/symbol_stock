@@ -1,0 +1,407 @@
+[
+    {
+      "name": "BTC/USDT",
+      "description": "Bitcoin — first decentralized cryptocurrency created by Satoshi Nakamoto",
+      "code": "BINANCE:BTCUSDT"
+    },
+    {
+      "name": "ETH/USDT",
+      "description": "Ethereum — smart contract platform created by Vitalik Buterin",
+      "code": "BINANCE:ETHUSDT"
+    },
+    {
+      "name": "BNB/USDT",
+      "description": "BNB — native token of Binance exchange ecosystem",
+      "code": "BINANCE:BNBUSDT"
+    },
+    {
+      "name": "XRP/USDT",
+      "description": "XRP — digital payment network developed by Ripple Labs",
+      "code": "BINANCE:XRPUSDT"
+    },
+    {
+      "name": "SOL/USDT",
+      "description": "Solana — high-performance blockchain supporting fast transactions",
+      "code": "BINANCE:SOLUSDT"
+    },
+    {
+      "name": "ADA/USDT",
+      "description": "Cardano — proof-of-stake blockchain founded by Charles Hoskinson",
+      "code": "BINANCE:ADAUSDT"
+    },
+    {
+      "name": "DOGE/USDT",
+      "description": "Dogecoin — meme cryptocurrency originally created as a joke",
+      "code": "BINANCE:DOGEUSDT"
+    },
+    {
+      "name": "TRX/USDT",
+      "description": "TRON — blockchain focused on digital content and entertainment",
+      "code": "BINANCE:TRXUSDT"
+    },
+    {
+      "name": "TON/USDT",
+      "description": "Toncoin — blockchain originally developed by Telegram team",
+      "code": "BINANCE:TONUSDT"
+    },
+    {
+      "name": "DOT/USDT",
+      "description": "Polkadot — multi-chain interoperability platform created by Gavin Wood",
+      "code": "BINANCE:DOTUSDT"
+    },
+    {
+      "name": "MATIC/USDT",
+      "description": "Polygon — scaling solution for Ethereum blockchain",
+      "code": "BINANCE:MATICUSDT"
+    },
+    {
+      "name": "LTC/USDT",
+      "description": "Litecoin — peer-to-peer cryptocurrency inspired by Bitcoin",
+      "code": "BINANCE:LTCUSDT"
+    },
+    {
+      "name": "BCH/USDT",
+      "description": "Bitcoin Cash — fork of Bitcoin designed for faster payments",
+      "code": "BINANCE:BCHUSDT"
+    },
+    {
+      "name": "AVAX/USDT",
+      "description": "Avalanche — fast smart contract blockchain platform",
+      "code": "BINANCE:AVAXUSDT"
+    },
+    {
+      "name": "LINK/USDT",
+      "description": "Chainlink — decentralized oracle network connecting smart contracts",
+      "code": "BINANCE:LINKUSDT"
+    },
+    {
+      "name": "ATOM/USDT",
+      "description": "Cosmos — ecosystem enabling communication between blockchains",
+      "code": "BINANCE:ATOMUSDT"
+    },
+    {
+      "name": "NEAR/USDT",
+      "description": "NEAR Protocol — scalable blockchain for decentralized applications",
+      "code": "BINANCE:NEARUSDT"
+    },
+    {
+      "name": "UNI/USDT",
+      "description": "Uniswap — decentralized exchange protocol token",
+      "code": "BINANCE:UNIUSDT"
+    },
+    {
+      "name": "FIL/USDT",
+      "description": "Filecoin — decentralized storage network",
+      "code": "BINANCE:FILUSDT"
+    },
+    {
+      "name": "APT/USDT",
+      "description": "Aptos — Layer-1 blockchain focusing on scalability",
+      "code": "BINANCE:APTUSDT"
+    },
+    {
+      "name": "ARB/USDT",
+      "description": "Arbitrum — Ethereum Layer-2 scaling solution",
+      "code": "BINANCE:ARBUSDT"
+    },
+    {
+      "name": "OP/USDT",
+      "description": "Optimism — Ethereum Layer-2 rollup network",
+      "code": "BINANCE:OPUSDT"
+    },
+    {
+      "name": "SUI/USDT",
+      "description": "Sui — next-generation Layer-1 blockchain",
+      "code": "BINANCE:SUIUSDT"
+    },
+    {
+      "name": "INJ/USDT",
+      "description": "Injective — decentralized derivatives exchange protocol",
+      "code": "BINANCE:INJUSDT"
+    },
+    {
+      "name": "HBAR/USDT",
+      "description": "Hedera — distributed ledger using hashgraph consensus",
+      "code": "BINANCE:HBARUSDT"
+    },
+    {
+      "name": "VET/USDT",
+      "description": "VeChain — blockchain for supply chain management",
+      "code": "BINANCE:VETUSDT"
+    },
+    {
+      "name": "ALGO/USDT",
+      "description": "Algorand — scalable blockchain platform for financial applications",
+      "code": "BINANCE:ALGOUSDT"
+    },
+    {
+      "name": "ICP/USDT",
+      "description": "Internet Computer — decentralized internet infrastructure platform",
+      "code": "BINANCE:ICPUSDT"
+    },
+    {
+      "name": "FTM/USDT",
+      "description": "Fantom — high-speed blockchain for DeFi applications",
+      "code": "BINANCE:FTMUSDT"
+    },
+    {
+      "name": "AAVE/USDT",
+      "description": "Aave — decentralized lending and borrowing protocol",
+      "code": "BINANCE:AAVEUSDT"
+    },
+{
+    "name": "GRT/USDT",
+    "description": "The Graph — indexing protocol for querying blockchain data",
+    "code": "BINANCE:GRTUSDT"
+  },
+  {
+    "name": "SNX/USDT",
+    "description": "Synthetix — decentralized synthetic asset issuance protocol",
+    "code": "BINANCE:SNXUSDT"
+  },
+  {
+    "name": "MKR/USDT",
+    "description": "Maker — governance token of MakerDAO stablecoin system",
+    "code": "BINANCE:MKRUSDT"
+  },
+  {
+    "name": "RUNE/USDT",
+    "description": "THORChain — decentralized cross-chain liquidity protocol",
+    "code": "BINANCE:RUNEUSDT"
+  },
+  {
+    "name": "KAVA/USDT",
+    "description": "Kava — decentralized lending platform",
+    "code": "BINANCE:KAVAUSDT"
+  },
+  {
+    "name": "ZEC/USDT",
+    "description": "Zcash — privacy-focused cryptocurrency",
+    "code": "BINANCE:ZECUSDT"
+  },
+  {
+    "name": "XLM/USDT",
+    "description": "Stellar — blockchain-based cross-border payment network",
+    "code": "BINANCE:XLMUSDT"
+  },
+  {
+    "name": "EOS/USDT",
+    "description": "EOS — blockchain platform for decentralized applications",
+    "code": "BINANCE:EOSUSDT"
+  },
+  {
+    "name": "XTZ/USDT",
+    "description": "Tezos — self-amending blockchain platform",
+    "code": "BINANCE:XTZUSDT"
+  },
+  {
+    "name": "THETA/USDT",
+    "description": "Theta — decentralized video streaming network",
+    "code": "BINANCE:THETAUSDT"
+  },
+  {
+    "name": "AXS/USDT",
+    "description": "Axie Infinity — blockchain gaming ecosystem token",
+    "code": "BINANCE:AXSUSDT"
+  },
+  {
+    "name": "SAND/USDT",
+    "description": "The Sandbox — virtual gaming metaverse token",
+    "code": "BINANCE:SANDUSDT"
+  },
+  {
+    "name": "MANA/USDT",
+    "description": "Decentraland — virtual reality platform token",
+    "code": "BINANCE:MANAUSDT"
+  },
+  {
+    "name": "ENJ/USDT",
+    "description": "Enjin — blockchain gaming and NFT platform",
+    "code": "BINANCE:ENJUSDT"
+  },
+  {
+    "name": "CHZ/USDT",
+    "description": "Chiliz — sports and fan engagement blockchain",
+    "code": "BINANCE:CHZUSDT"
+  },
+  {
+    "name": "CRV/USDT",
+    "description": "Curve — decentralized exchange for stablecoins",
+    "code": "BINANCE:CRVUSDT"
+  },
+  {
+    "name": "1INCH/USDT",
+    "description": "1inch — decentralized exchange aggregator",
+    "code": "BINANCE:1INCHUSDT"
+  },
+  {
+    "name": "COMP/USDT",
+    "description": "Compound — decentralized lending protocol",
+    "code": "BINANCE:COMPUSDT"
+  },
+  {
+    "name": "YFI/USDT",
+    "description": "Yearn Finance — DeFi yield optimization protocol",
+    "code": "BINANCE:YFIUSDT"
+  },
+  {
+    "name": "BAL/USDT",
+    "description": "Balancer — automated portfolio manager and liquidity provider",
+    "code": "BINANCE:BALUSDT"
+  },
+  {
+    "name": "CELO/USDT",
+    "description": "Celo — mobile-first payment blockchain",
+    "code": "BINANCE:CELOUSDT"
+  },
+  {
+    "name": "MINA/USDT",
+    "description": "Mina — lightweight blockchain using zero-knowledge proofs",
+    "code": "BINANCE:MINAUSDT"
+  },
+  {
+    "name": "FLOW/USDT",
+    "description": "Flow — blockchain designed for digital assets and games",
+    "code": "BINANCE:FLOWUSDT"
+  },
+  {
+    "name": "ROSE/USDT",
+    "description": "Oasis Network — privacy-enabled blockchain platform",
+    "code": "BINANCE:ROSEUSDT"
+  },
+  {
+    "name": "ANKR/USDT",
+    "description": "Ankr — decentralized cloud computing platform",
+    "code": "BINANCE:ANKRUSDT"
+  },
+  {
+    "name": "OMG/USDT",
+    "description": "OMG Network — Ethereum Layer-2 scaling solution",
+    "code": "BINANCE:OMGUSDT"
+  },
+  {
+    "name": "KSM/USDT",
+    "description": "Kusama — experimental network for Polkadot",
+    "code": "BINANCE:KSMUSDT"
+  },
+  {
+    "name": "GLM/USDT",
+    "description": "Golem — decentralized computing marketplace",
+    "code": "BINANCE:GLMUSDT"
+  },
+  {
+    "name": "LRC/USDT",
+    "description": "Loopring — Layer-2 decentralized exchange protocol",
+    "code": "BINANCE:LRCUSDT"
+  },
+  {
+    "name": "BAT/USDT",
+    "description": "Basic Attention Token — digital advertising token",
+    "code": "BINANCE:BATUSDT"
+  },
+  {
+    "name": "DASH/USDT",
+    "description": "Dash — digital cash cryptocurrency",
+    "code": "BINANCE:DASHUSDT"
+  },
+  {
+    "name": "WAVES/USDT",
+    "description": "Waves — blockchain platform for token creation",
+    "code": "BINANCE:WAVESUSDT"
+  },
+  {
+    "name": "QTUM/USDT",
+    "description": "Qtum — hybrid blockchain combining Bitcoin and Ethereum",
+    "code": "BINANCE:QTUMUSDT"
+  },
+  {
+    "name": "ICX/USDT",
+    "description": "ICON — blockchain connecting independent networks",
+    "code": "BINANCE:ICXUSDT"
+  },
+  {
+    "name": "ONT/USDT",
+    "description": "Ontology — blockchain for decentralized identity",
+    "code": "BINANCE:ONTUSDT"
+  },
+  {
+    "name": "ZIL/USDT",
+    "description": "Zilliqa — high-throughput blockchain platform",
+    "code": "BINANCE:ZILUSDT"
+  },
+  {
+    "name": "IOTA/USDT",
+    "description": "IOTA — distributed ledger for Internet of Things",
+    "code": "BINANCE:IOTAUSDT"
+  },
+  {
+    "name": "SC/USDT",
+    "description": "Siacoin — decentralized cloud storage network",
+    "code": "BINANCE:SCUSDT"
+  },
+  {
+    "name": "RVN/USDT",
+    "description": "Ravencoin — blockchain for asset transfer",
+    "code": "BINANCE:RVNUSDT"
+  },
+  {
+    "name": "KNC/USDT",
+    "description": "Kyber Network — decentralized liquidity protocol",
+    "code": "BINANCE:KNCUSDT"
+  },
+  {
+    "name": "STORJ/USDT",
+    "description": "Storj — decentralized cloud storage solution",
+    "code": "BINANCE:STORJUSDT"
+  },
+  {
+    "name": "SKL/USDT",
+    "description": "SKALE — elastic blockchain network for Ethereum",
+    "code": "BINANCE:SKLUSDT"
+  },
+  {
+    "name": "REN/USDT",
+    "description": "Ren — protocol enabling cross-chain liquidity",
+    "code": "BINANCE:RENUSDT"
+  },
+  {
+    "name": "BAND/USDT",
+    "description": "Band Protocol — decentralized oracle network",
+    "code": "BINANCE:BANDUSDT"
+  },
+  {
+    "name": "OCEAN/USDT",
+    "description": "Ocean Protocol — decentralized data exchange platform",
+    "code": "BINANCE:OCEANUSDT"
+  },
+  {
+    "name": "HOT/USDT",
+    "description": "Holo — decentralized hosting platform",
+    "code": "BINANCE:HOTUSDT"
+  },
+  {
+    "name": "COTI/USDT",
+    "description": "COTI — payment platform focused on stablecoins",
+    "code": "BINANCE:COTIUSDT"
+  },
+  {
+    "name": "AR/USDT",
+    "description": "Arweave — decentralized permanent data storage network",
+    "code": "BINANCE:ARUSDT"
+  },
+  {
+    "name": "DYDX/USDT",
+    "description": "dYdX — decentralized derivatives trading platform",
+    "code": "BINANCE:DYDXUSDT"
+  },
+  {
+    "name": "IMX/USDT",
+    "description": "Immutable — Layer-2 scaling solution for NFTs",
+    "code": "BINANCE:IMXUSDT"
+  },
+  {
+    "name": "BLUR/USDT",
+    "description": "Blur — NFT marketplace token",
+    "code": "BINANCE:BLURUSDT"
+  }
+  ]
