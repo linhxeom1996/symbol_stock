@@ -1,52 +1,102 @@
 [
   {
-    "name": "SPX",
-    "description": "S&P 500 Index — tracks 500 largest US companies",
-    "code": "SP:SPX"
+    "name": "EUR/USD",
+    "description": "Euro vs US Dollar — most traded forex pair",
+    "code": "FX:EURUSD"
   },
   {
-    "name": "NDX",
-    "description": "Nasdaq 100 Index",
-    "code": "NASDAQ:NDX"
+    "name": "USD/JPY",
+    "description": "US Dollar vs Japanese Yen",
+    "code": "FX:USDJPY"
   },
   {
-    "name": "DJI",
-    "description": "Dow Jones Industrial Average",
-    "code": "DJ:DJI"
+    "name": "GBP/USD",
+    "description": "British Pound vs US Dollar",
+    "code": "FX:GBPUSD"
   },
   {
-    "name": "RUT",
-    "description": "Russell 2000 small-cap index",
-    "code": "RUSSELL:RUT"
+    "name": "USD/CHF",
+    "description": "US Dollar vs Swiss Franc",
+    "code": "FX:USDCHF"
   },
   {
-    "name": "VIX",
-    "description": "CBOE Volatility Index — fear index",
-    "code": "CBOE:VIX"
+    "name": "AUD/USD",
+    "description": "Australian Dollar vs US Dollar",
+    "code": "FX:AUDUSD"
   },
   {
-    "name": "DJT",
-    "description": "Dow Jones Transportation Average",
-    "code": "DJ:DJT"
+    "name": "USD/CAD",
+    "description": "US Dollar vs Canadian Dollar",
+    "code": "FX:USDCAD"
   },
   {
-    "name": "NYA",
-    "description": "NYSE Composite Index",
-    "code": "NYSE:NYA"
+    "name": "NZD/USD",
+    "description": "New Zealand Dollar vs US Dollar",
+    "code": "FX:NZDUSD"
   },
   {
-    "name": "OEX",
-    "description": "S&P 100 Index",
-    "code": "SP:OEX"
+    "name": "EUR/GBP",
+    "description": "Euro vs British Pound",
+    "code": "FX:EURGBP"
   },
   {
-    "name": "SOX",
-    "description": "Philadelphia Semiconductor Index",
-    "code": "NASDAQ:SOX"
+    "name": "EUR/JPY",
+    "description": "Euro vs Japanese Yen",
+    "code": "FX:EURJPY"
   },
   {
-    "name": "BKX",
-    "description": "KBW Bank Index",
-    "code": "NASDAQ:BKX"
+    "name": "GBP/JPY",
+    "description": "British Pound vs Japanese Yen",
+    "code": "FX:GBPJPY"
+  },
+  {
+    "name": "EUR/CHF",
+    "description": "Euro vs Swiss Franc",
+    "code": "FX:EURCHF"
+  },
+  {
+    "name": "AUD/JPY",
+    "description": "Australian Dollar vs Japanese Yen",
+    "code": "FX:AUDJPY"
+  },
+  {
+    "name": "GBP/CHF",
+    "description": "British Pound vs Swiss Franc",
+    "code": "FX:GBPCHF"
+  },
+  {
+    "name": "CAD/JPY",
+    "description": "Canadian Dollar vs Japanese Yen",
+    "code": "FX:CADJPY"
+  },
+  {
+    "name": "CHF/JPY",
+    "description": "Swiss Franc vs Japanese Yen",
+    "code": "FX:CHFJPY"
+  },
+  {
+    "name": "EUR/AUD",
+    "description": "Euro vs Australian Dollar",
+    "code": "FX:EURAUD"
+  },
+  {
+    "name": "EUR/CAD",
+    "description": "Euro vs Canadian Dollar",
+    "code": "FX:EURCAD"
+  },
+  {
+    "name": "GBP/AUD",
+    "description": "British Pound vs Australian Dollar",
+    "code": "FX:GBPAUD"
+  },
+  {
+    "name": "AUD/CAD",
+    "description": "Australian Dollar vs Canadian Dollar",
+    "code": "FX:AUDCAD"
+  },
+  {
+    "name": "NZD/JPY",
+    "description": "New Zealand Dollar vs Japanese Yen",
+    "code": "FX:NZDJPY"
   }
 ]
