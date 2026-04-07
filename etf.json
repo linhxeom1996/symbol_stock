@@ -1,0 +1,102 @@
+[
+  {
+    "name": "SPY",
+    "description": "SPDR S&P 500 ETF — tracks S&P 500 index",
+    "code": "AMEX:SPY"
+  },
+  {
+    "name": "QQQ",
+    "description": "Invesco QQQ ETF — tracks Nasdaq 100 index",
+    "code": "NASDAQ:QQQ"
+  },
+  {
+    "name": "VOO",
+    "description": "Vanguard S&P 500 ETF",
+    "code": "AMEX:VOO"
+  },
+  {
+    "name": "VTI",
+    "description": "Vanguard Total Stock Market ETF",
+    "code": "AMEX:VTI"
+  },
+  {
+    "name": "IVV",
+    "description": "iShares Core S&P 500 ETF",
+    "code": "AMEX:IVV"
+  },
+  {
+    "name": "DIA",
+    "description": "SPDR Dow Jones Industrial Average ETF",
+    "code": "AMEX:DIA"
+  },
+  {
+    "name": "IWM",
+    "description": "iShares Russell 2000 ETF",
+    "code": "AMEX:IWM"
+  },
+  {
+    "name": "ARKK",
+    "description": "ARK Innovation ETF — disruptive technology companies",
+    "code": "AMEX:ARKK"
+  },
+  {
+    "name": "XLK",
+    "description": "Technology Select Sector SPDR ETF",
+    "code": "AMEX:XLK"
+  },
+  {
+    "name": "XLF",
+    "description": "Financial Select Sector SPDR ETF",
+    "code": "AMEX:XLF"
+  },
+  {
+    "name": "XLE",
+    "description": "Energy Select Sector SPDR ETF",
+    "code": "AMEX:XLE"
+  },
+  {
+    "name": "XLV",
+    "description": "Health Care Select Sector SPDR ETF",
+    "code": "AMEX:XLV"
+  },
+  {
+    "name": "XLY",
+    "description": "Consumer Discretionary Select Sector ETF",
+    "code": "AMEX:XLY"
+  },
+  {
+    "name": "XLP",
+    "description": "Consumer Staples Select Sector ETF",
+    "code": "AMEX:XLP"
+  },
+  {
+    "name": "XLI",
+    "description": "Industrial Select Sector SPDR ETF",
+    "code": "AMEX:XLI"
+  },
+  {
+    "name": "XLU",
+    "description": "Utilities Select Sector SPDR ETF",
+    "code": "AMEX:XLU"
+  },
+  {
+    "name": "XLB",
+    "description": "Materials Select Sector SPDR ETF",
+    "code": "AMEX:XLB"
+  },
+  {
+    "name": "VNQ",
+    "description": "Vanguard Real Estate ETF",
+    "code": "AMEX:VNQ"
+  },
+  {
+    "name": "GLD",
+    "description": "SPDR Gold Shares ETF",
+    "code": "AMEX:GLD"
+  },
+  {
+    "name": "SLV",
+    "description": "iShares Silver Trust ETF",
+    "code": "AMEX:SLV"
+  }
+]
