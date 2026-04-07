@@ -1,0 +1,52 @@
+[
+  {
+    "name": "SPX",
+    "description": "S&P 500 Index — tracks 500 largest US companies",
+    "code": "SP:SPX"
+  },
+  {
+    "name": "NDX",
+    "description": "Nasdaq 100 Index",
+    "code": "NASDAQ:NDX"
+  },
+  {
+    "name": "DJI",
+    "description": "Dow Jones Industrial Average",
+    "code": "DJ:DJI"
+  },
+  {
+    "name": "RUT",
+    "description": "Russell 2000 small-cap index",
+    "code": "RUSSELL:RUT"
+  },
+  {
+    "name": "VIX",
+    "description": "CBOE Volatility Index — fear index",
+    "code": "CBOE:VIX"
+  },
+  {
+    "name": "DJT",
+    "description": "Dow Jones Transportation Average",
+    "code": "DJ:DJT"
+  },
+  {
+    "name": "NYA",
+    "description": "NYSE Composite Index",
+    "code": "NYSE:NYA"
+  },
+  {
+    "name": "OEX",
+    "description": "S&P 100 Index",
+    "code": "SP:OEX"
+  },
+  {
+    "name": "SOX",
+    "description": "Philadelphia Semiconductor Index",
+    "code": "NASDAQ:SOX"
+  },
+  {
+    "name": "BKX",
+    "description": "KBW Bank Index",
+    "code": "NASDAQ:BKX"
+  }
+]
