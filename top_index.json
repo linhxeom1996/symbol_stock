@@ -2,7 +2,7 @@
   {
     "name": "SPX",
     "description": "S&P 500 Index — tracks 500 largest US companies",
-    "code": "INDEX:SPX"
+    "code": "OANDA:SPX500USD"
   },
   {
     "name": "NDX",
