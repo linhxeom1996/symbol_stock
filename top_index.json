@@ -16,12 +16,12 @@
   },
   {
     "name": "RUT",
-    "description": "Russell 2000 small-cap index",
+    "description": "Russell 2000 Index",
     "code": "RUSSELL:RUT"
   },
   {
     "name": "VIX",
-    "description": "CBOE Volatility Index — fear index",
+    "description": "CBOE Volatility Index — market fear index",
     "code": "CBOE:VIX"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "NYA",
     "description": "NYSE Composite Index",
-    "code": "NYSE:NYA"
+    "code": "INDEX:NYA"
   },
   {
     "name": "OEX",
@@ -42,11 +42,11 @@
   {
     "name": "SOX",
     "description": "Philadelphia Semiconductor Index",
-    "code": "NASDAQ:SOX"
+    "code": "INDEX:SOX"
   },
   {
     "name": "BKX",
     "description": "KBW Bank Index",
-    "code": "NASDAQ:BKX"
+    "code": "INDEX:BKX"
   }
 ]
